@@ -3,8 +3,10 @@
    <img src="https://i.imgur.com/3KqY2Wx.jpg" alt="CL Thumb" border="0" width="100%">
 </p>
 
-## 💻_۪۪ۗۗۖ۫۫̉̑̐A little bit about me_۪۪ۗۗۖ۫۫̉̑̐ 
-I'm Andres Alonso, 14y beginner programmer, bug hunter and UI-UX designer
+## _۪۪ۗۗۖ۫۫̉̑̐A little bit about me_۪۪ۗۗۖ۫۫̉̑̐ 
+
+💻I'm Andres Alonso  
+14y beginner programmer, bug hunter and UI-UX designer
 
 - Favourites tools:  
 <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js</b>  
