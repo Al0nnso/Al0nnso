@@ -13,12 +13,12 @@
 ## 💻 A little bit about me
 
 Hi there 👋🏻  
-I'm Andres Alonso, a beginner programmer, bug hunter and UI-UX designer
+I'm Andres Alonso, 14y beginner programmer, bug hunter and UI-UX designer
 
-- 💡My favourites tools:  
+- Favourites tools:  
 <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js</b>  
 <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>  
 🐍 <b>Python</b>  
 
-- 🎯Currently learning:  
+- Currently learning:  
 <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Native</b>
