@@ -5,7 +5,7 @@
 
 ## _۪۪ۗۗۖ۫۫̉̑̐A little bit about me_۪۪ۗۗۖ۫۫̉̑̐ 
 
-#### I'm Andres Alonso  
+**I'm Andres Alonso**  
 💻 14y beginner programmer, bug hunter and UI-UX designer
 
 - Favourites tools:  
