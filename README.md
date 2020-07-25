@@ -6,7 +6,7 @@
 ## _۪۪ۗۗۖ۫۫̉̑̐A little bit about me_۪۪ۗۗۖ۫۫̉̑̐ 
 
 **I'm Andres Alonso**  
-💻 14y beginner programmer, bug hunter and UI-UX designer
+14y beginner programmer, bug hunter and UI-UX designer
 
 - Favourites tools:  
 <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js</b>  
