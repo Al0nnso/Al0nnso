@@ -3,9 +3,7 @@
    <img src="https://i.imgur.com/3KqY2Wx.jpg" alt="CL Thumb" border="0" width="100%">
 </p>
 
-## .̷̴̷̢̧̲̬̖͓̝̱̥̳ͤ̿ͭ̏ͭ̇̽͗̒̀̚͘͢͜͞͠@̶̢̛̩̏̓ͯ͗ͧͭͨ̈́̓̈̂͌̾̈́ͬͩ̈́ͨ́͜͠͠͝͝͡.̸̡̧̛̖̎̅̈́̔̓ͬͣ́́͟͡͞💻 A little bit about me@̶̢̛̩̏̓ͯ͗ͧͭͨ̈́̓̈̂͌̾̈́ͬͩ̈́ͨ́͜͠͠͝͝͡.̸̡̧̛̖̎̅̈́̔̓ͬͣ́́͟͡͞.̷̧̢̜̗͈͎̺̜̰̥̯̜͚̩̇̿̋̒̆ͬ̽̌̃̓̂̊̚
-  
-  
+## _۪۪ۗۗۖ۫۫̉̑̐💻 A little bit about me_۪۪ۗۗۖ۫۫̉̑̐ 
 I'm Andres Alonso, 14y beginner programmer, bug hunter and UI-UX designer
 
 - Favourites tools:  
