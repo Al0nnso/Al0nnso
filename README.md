@@ -3,9 +3,9 @@
    <img src="https://i.imgur.com/3KqY2Wx.jpg" alt="CL Thumb" border="0" width="100%">
 </p>
 
-## 💻 A little bit about me
-
-Hi there 👋🏻  
+## .̷̴̷̢̧̲̬̖͓̝̱̥̳ͤ̿ͭ̏ͭ̇̽͗̒̀̚͘͢͜͞͠@̶̢̛̩̏̓ͯ͗ͧͭͨ̈́̓̈̂͌̾̈́ͬͩ̈́ͨ́͜͠͠͝͝͡.̸̡̧̛̖̎̅̈́̔̓ͬͣ́́͟͡͞💻 A little bit about me@̶̢̛̩̏̓ͯ͗ͧͭͨ̈́̓̈̂͌̾̈́ͬͩ̈́ͨ́͜͠͠͝͝͡.̸̡̧̛̖̎̅̈́̔̓ͬͣ́́͟͡͞.̷̧̢̜̗͈͎̺̜̰̥̯̜͚̩̇̿̋̒̆ͬ̽̌̃̓̂̊̚
+  
+  
 I'm Andres Alonso, 14y beginner programmer, bug hunter and UI-UX designer
 
 - Favourites tools:  
