@@ -3,13 +3,6 @@
    <img src="https://i.imgur.com/3KqY2Wx.jpg" alt="CL Thumb" border="0" width="100%">
 </p>
 
-<p align="center">
-  <a href="https://instagram.com/andres.alonnso">Instagram</a> •
-  <a href="https://twitter.com/al0nnso">Twitter</a>
-</p>
-
----
-
 ## 💻 A little bit about me
 
 Hi there 👋🏻  
