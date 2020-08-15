@@ -15,4 +15,5 @@
 🐍 <b>Python</b>  
 
 - Currently learning:  
-<img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Native</b>
+<img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Native</b>  
+<b>C++</b> (for competitive programming)
