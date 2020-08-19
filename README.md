@@ -11,7 +11,7 @@
 > [Design Portifolio](https://www.behance.net/alonnso)
 
 - **Courses and Certificates**  
-🎓 [**START: DESIGN GRÁFICO**](https://saga.art.br/start/) - 270h  
+🎓 [**START: GRAPHIC DESIGN**](https://saga.art.br/start/) - 270h  
 📜 [ENTREPRENEURSHIP: From Idea to Business Plan](https://cursos.alura.com.br/certificate/a5b3a7b6-6a69-4e63-a8ac-496c2441d999) - 8h  
 📜 [OWASP TOP 10: From Injections to Broken Access Control](https://cursos.alura.com.br/certificate/a8a79ea8-d2e8-4e6d-87a5-3bd88fdcb4b7) - 4h  
 💻 [Web Hacking Week 2.0](https://kaduflix.crowsec.com.br/swh/) - 4h  
