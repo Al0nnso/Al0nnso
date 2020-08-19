@@ -11,7 +11,9 @@
 > [Design Portifolio](https://www.behance.net/alonnso)
 
 - **Courses and Certificates**  
-🎓 [**START: GRAPHIC DESIGN**](https://saga.art.br/start/) - 270h  
+🎓 [**START: GRAPHIC DESIGN**](https://saga.art.br/start/) - 25h  
+🎓 [**UNICAMP: Computational Algorithms**](docs/obi-2019.pdf) - 270h  
+🏅 [**OBI - 2019**](https://olimpiada.ic.unicamp.br/passadas/OBI2019/qmerito/pj/) - 270h  
 📋 [ENTREPRENEURSHIP: From Idea to Business Plan](https://cursos.alura.com.br/certificate/a5b3a7b6-6a69-4e63-a8ac-496c2441d999) - 8h  
 📋 [OWASP TOP 10: From Injections to Broken Access Control](https://cursos.alura.com.br/certificate/a8a79ea8-d2e8-4e6d-87a5-3bd88fdcb4b7) - 4h  
 📋 [PHOTOSHOP - From Zero to Advanced](docs/photoshop-ZeroToAdvanced.pdf) - 12h  
