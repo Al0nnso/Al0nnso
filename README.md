@@ -28,4 +28,5 @@
 
 - Currently learning:  
 <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Native</b>  
-<b>C++</b> (for competitive programming)
+<b>C++</b> <b>Competitive</b>  
+<b>🐍</b> <b>OpenCV 3.0</b>  
