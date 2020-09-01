@@ -8,7 +8,7 @@
 
 **I'm Andres Alonso**  
 14y beginner programmer, bug hunter and UI-UX designer
-> [Design Portifolio](https://www.behance.net/alonnso)
+> [Design Portifolio](https://www.behance.net/al0nnso)
 
 - **Courses and Certificates**  
 🎓 [**START: GRAPHIC DESIGN**](https://saga.art.br/start/) - 270h  
