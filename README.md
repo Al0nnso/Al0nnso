@@ -13,8 +13,10 @@
 - **Courses and Certificates**  
 🎓 [**START: GRAPHIC DESIGN**](https://saga.art.br/start/) - 270h  
 🎓 [**UNICAMP: Computational Algorithms**](https://github.com/Al0nnso/Al0nnso/blob/master/docs/obi-2019.pdf) - 25h  
+🎓 [**BOUNTYCON 2020**](https://www.facebook.com/notes/facebook-bug-bounty/announcing-bountycon-2020/3106668869347318/) - 16h  
 🏅 [**FACEBOOK WHITEHAT**](https://www.facebook.com/whitehat/thanks) - 2020 - 2°  
 🏅 [**OBI - 2019 PJ**](https://olimpiada.ic.unicamp.br/passadas/OBI2019/qmerito/pj/) - 7°  
+
 <!--📋 [ENTREPRENEURSHIP: From Idea to Business Plan](https://cursos.alura.com.br/certificate/a5b3a7b6-6a69-4e63-a8ac-496c2441d999) - 8h  -->
 <!--[OWASP TOP 10: From Injections to Broken Access Control](https://cursos.alura.com.br/certificate/a8a79ea8-d2e8-4e6d-87a5-3bd88fdcb4b7) - 4h  -->
 <!--[SOLID - Introduction to Hacking and Pentest](https://github.com/Al0nnso/Al0nnso/blob/master/docs/certificate-HackingPentest.pdf) - 7h  -->
