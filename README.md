@@ -7,7 +7,7 @@
 ## _۪۪ۗۗۖ۫۫̉̑̐A little bit about me_۪۪ۗۗۖ۫۫̉̑̐ 
 
 **I'm Andres Alonso**  
-14y beginner programmer, bug hunter and UI-UX designer
+15y beginner programmer, bug hunter and UI-UX designer
 > [Design Portifolio](https://www.behance.net/al0nnso)
 
 - **Courses and Certificates**  
