@@ -10,7 +10,7 @@
 15y beginner programmer, bug hunter and UI-UX designer
 > [Design Portifolio](https://www.behance.net/al0nnso)
 
-- **🎓 and 🏅**  
+- **My 🎓 and 🏅**  
 🎓 [**START: GRAPHIC DESIGN**](https://saga.art.br/start/) - 270h - 2016  
 🎓 [**UNICAMP: Computational Algorithms**](https://github.com/Al0nnso/Al0nnso/blob/master/docs/obi-2019.pdf) - 25h - 2019  
 🎓 [**BOUNTYCON - 2020**](https://www.facebook.com/notes/facebook-bug-bounty/announcing-bountycon-2020/3106668869347318/) - 16h - 2020  
