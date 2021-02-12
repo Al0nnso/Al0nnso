@@ -16,7 +16,7 @@
 🎓 [**BOUNTYCON - 2020**](https://www.facebook.com/notes/facebook-bug-bounty/announcing-bountycon-2020/3106668869347318/) - 16h - 2020  
 🏅 [**FACEBOOK WHITEHAT**](https://www.facebook.com/whitehat/thanks) - 2020 - 2°  
 🏅 [**OBI - 2019 PJ**](https://olimpiada.ic.unicamp.br/passadas/OBI2019/qmerito/pj/) - 7° - 2019  
-🏅 [**OBI - 2020 P1**](https://olimpiada.ic.unicamp.br/resultados/qmerito/p1/) - 7° - 2020  
+🏅 [**OBI - 2020 P1**](https://olimpiada.ic.unicamp.br/resultados/qmerito/p1/) - 20° - 2020  
 <!--💻[**OWASP TOP 10:** From Injections to Broken Access Control](https://cursos.alura.com.br/certificate/a8a79ea8-d2e8-4e6d-87a5-3bd88fdcb4b7) - 4h - 2020  -->
 <!--💻[**SOLID** - Introduction to Hacking and Pentest](https://github.com/Al0nnso/Al0nnso/blob/master/docs/certificate-HackingPentest.pdf) - 7h - 2018  -->
 <!--💻 [**Web Hacking Week 2.0**](https://kaduflix.crowsec.com.br/swh/) - 4h - 2020  -->
