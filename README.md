@@ -35,6 +35,7 @@
 <b>C++</b> <b>Competitive</b>  
 <b>🐍</b> <b>OpenCV 3.0</b>  
 
+<!--
   <a href="https://www.facebook.com/whitehat/profile/alonnsoandres" target="_blank">
     <img with="80" height="80" src="https://scontent.fplu9-1.fna.fbcdn.net/v/t39.8562-6/120045778_357937538586991_3552421104291310380_n.png?_nc_cat=104&ccb=3&_nc_sid=eaa83b&_nc_ohc=WPCcHsuq2pcAX_yFI0T&_nc_ht=scontent.fplu9-1.fna&oh=0be9b5d5317e4cf06c68da2a22a263e1&oe=6052742C" />
   </a>
@@ -42,3 +43,4 @@
   <a href="https://www.facebook.com/whitehat/profile/alonnsoandres" target="_blank">
     <img with="70" height="70" src="https://scontent.fplu9-1.fna.fbcdn.net/v/t39.8562-6/122803625_679527796093475_2269308880391801939_n.png?_nc_cat=100&ccb=3&_nc_sid=eaa83b&_nc_ohc=om8U3HBco_AAX-Oksfc&_nc_ht=scontent.fplu9-1.fna&oh=a89eaf52348d73519938f73ce09c9eeb&oe=6053EA67" />
   </a>
+  -->
