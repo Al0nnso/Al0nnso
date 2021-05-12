@@ -32,7 +32,7 @@
 
 - Currently learning:  
 <b>Java</b>  
-<b>Kotlin</b> 
+<b>Kotlin</b>  
 <b>Spring</b> 
 
 <!--
