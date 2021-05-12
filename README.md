@@ -31,9 +31,9 @@
 🐍 <b>Python</b>  
 
 - Currently learning:  
-<img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Native</b>  
-<b>C++</b> <b>Competitive</b>  
-<b>🐍</b> <b>OpenCV 3.0</b>  
+<b>Java</b>  
+<b>Kotlin</b> 
+<b>Spring</b> 
 
 <!--
   <a href="https://www.facebook.com/whitehat/profile/alonnsoandres" target="_blank">
