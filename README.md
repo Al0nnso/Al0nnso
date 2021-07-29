@@ -10,7 +10,7 @@
 15y dev & bug hunter
 
 **CEO of The Bug Hunter**  
-The 1º Bug Bounty platform of brazil  
+The 1º Bug Bounty edTech platform of brazil  
 
 My [linkedin](https://www.linkedin.com/in/andres-alonso-7527371ab/) for 💼 stuff
 
