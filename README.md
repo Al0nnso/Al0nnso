@@ -4,7 +4,7 @@
    <img src="/docs/banner.png" alt="CL Thumb" border="0" width="100%">
 </p>
 
-## A little bit about me
+## Me and bla bla bla...
 
 **I'm Andres Alonso**  
 15y dev & bug hunter  
