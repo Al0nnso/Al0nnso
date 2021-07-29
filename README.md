@@ -4,11 +4,12 @@
    <img src="/docs/banner.png" alt="CL Thumb" border="0" width="100%">
 </p>
 
-## _۪۪ۗۗۖ۫۫̉̑̐A little bit about me_۪۪ۗۗۖ۫۫̉̑̐ 
+## A little bit about me
 
 **I'm Andres Alonso**  
-15y beginner programmer, bug hunter and designer
-> [Design Portifolio](https://www.behance.net/al0nnso)
+15y dev & bug hunter
+
+CEO of The Bug Hunter
 
 - **My 🎓 and 🏅**  
 🎓 [**START: GRAPHIC DESIGN**](https://saga.art.br/start/) - 270h - 2016  
