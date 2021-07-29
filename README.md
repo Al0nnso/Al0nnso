@@ -8,11 +8,9 @@
 
 **I'm Andres Alonso**  
 15y dev & bug hunter
-
-**CEO of The Bug Hunter**  
-The 1º Bug Bounty edTech platform of brazil  
-
 My [linkedin](https://www.linkedin.com/in/andres-alonso-7527371ab/) for 💼 stuff
+
+<img src="/docs/profile2.png" align="left" border="0" width="50px">**CEO of The Bug Hunter** <br>🏆 The 1º Bug Bounty edTech platform of Brazil
 
 - **My 🎓 and 🏅**  
 🎓 [**START: GRAPHIC DESIGN**](https://saga.art.br/start/) - 270h - 2016  
@@ -30,14 +28,9 @@ My [linkedin](https://www.linkedin.com/in/andres-alonso-7527371ab/) for 💼 stu
 <!--💻 [Python 3 – World 1](https://www.cursoemvideo.com/course/python-3-mundo-1/) - 40h  -->
 
 - Favourites tools:  
-<img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js</b>  
+<img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Native</b>  
 <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>  
 🐍 <b>Python</b>  
-
-- Currently learning:  
-<b>Java</b>  
-<b>Kotlin</b>  
-<b>Spring</b> 
 
 <!--
   <a href="https://www.facebook.com/whitehat/profile/alonnsoandres" target="_blank">
