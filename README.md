@@ -8,10 +8,10 @@
 
 **I'm Andres Alonso**  
 15y dev & bug hunter  
+
+My [Linkedin](https://www.linkedin.com/in/andres-alonso-7527371ab/) for 💼 stuff  
   
 <img src="/docs/profile2.png" align="left" border="0" width="50px">**CEO of The Bug Hunter** <br>🏆 The 1º Bug Bounty edTech platform of Brazil  
-
-My [linkedin](https://www.linkedin.com/in/andres-alonso-7527371ab/) for 💼 stuff
 
 - **My 🎓 and 🏅**  
 🎓 [**START: GRAPHIC DESIGN**](https://saga.art.br/start/) - 270h - 2016  
