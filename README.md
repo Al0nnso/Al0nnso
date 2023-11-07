@@ -12,8 +12,8 @@ I hack things
 
 My [Linkedin](https://www.linkedin.com/in/andres-alonso-7527371ab/) for 💼 stuff  
 
-- **My 🎓 and 🏅**
-🏅 [**TOP 5 FACEBOOK HACKER**](https://www.facebook.com/whitehat/thanks) - 2020
+- **My 🎓 and 🏅**  
+🏅 [**TOP 5 FACEBOOK HACKER**](https://www.facebook.com/whitehat/thanks) - 2020  
 🎓 [**UNICAMP: Computational Algorithms**](https://github.com/Al0nnso/Al0nnso/blob/master/docs/obi-2019.pdf) - 25h - 2019  
 🎓 [**BOUNTYCON - 2020**](https://www.facebook.com/notes/facebook-bug-bounty/announcing-bountycon-2020/3106668869347318/) - 16h - 2020   
 🏅 [**OBI - 2019 PJ**](https://olimpiada.ic.unicamp.br/passadas/OBI2019/qmerito/pj/) - 7° - 2019  
