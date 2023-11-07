@@ -8,15 +8,14 @@
 
 **I'm Andres Alonso**  
 17y dev & bug hunter  
-I make tech & hacking content for youtube...   
+I hack things
 
 My [Linkedin](https://www.linkedin.com/in/andres-alonso-7527371ab/) for 💼 stuff  
 
-- **My 🎓 and 🏅**  
-🎓 [**START: GRAPHIC DESIGN**](https://saga.art.br/start/) - 270h - 2016  
+- **My 🎓 and 🏅**
+🏅 [**TOP 5 FACEBOOK HACKER**](https://www.facebook.com/whitehat/thanks) - 2020
 🎓 [**UNICAMP: Computational Algorithms**](https://github.com/Al0nnso/Al0nnso/blob/master/docs/obi-2019.pdf) - 25h - 2019  
-🎓 [**BOUNTYCON - 2020**](https://www.facebook.com/notes/facebook-bug-bounty/announcing-bountycon-2020/3106668869347318/) - 16h - 2020  
-🏅 [**FACEBOOK WHITEHAT**](https://www.facebook.com/whitehat/thanks) - 2020 - 2°  
+🎓 [**BOUNTYCON - 2020**](https://www.facebook.com/notes/facebook-bug-bounty/announcing-bountycon-2020/3106668869347318/) - 16h - 2020   
 🏅 [**OBI - 2019 PJ**](https://olimpiada.ic.unicamp.br/passadas/OBI2019/qmerito/pj/) - 7° - 2019  
 🏅 [**OBI - 2020 P1**](https://olimpiada.ic.unicamp.br/resultados/qmerito/p1/) - 20° - 2020  
 <!--💻[**OWASP TOP 10:** From Injections to Broken Access Control](https://cursos.alura.com.br/certificate/a8a79ea8-d2e8-4e6d-87a5-3bd88fdcb4b7) - 4h - 2020  -->
